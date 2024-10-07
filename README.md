@@ -65,18 +65,11 @@ This project fully utilizes the power of the **BigCommerce** platform, providing
 I am **Sajid Jamil**, an experienced **BigCommerce developer** specializing in creating fully customized, high-performing eCommerce stores that drive results. With extensive experience in **eCommerce strategy, mobile responsiveness**, and **secure payment integrations**, I ensure that your online store not only stands out but also converts visitors into loyal customers.
 
 ---
+## 📬 Contact Me
 
-## Contact Me
-
-Looking to launch or upgrade your **BigCommerce store**? Let's work together to turn your vision into reality.
-
-**[Hire me for your next BigCommerce project!](mailto:sajidjamil@example.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
 
 ---
 
-### Connect with Me:
-- **[LinkedIn](https://www.linkedin.com/in/sajidjamil)**
-- **[Email](mailto:sajidjamil@example.com)**
-- **[Portfolio Website](https://cinemakungfu.com/)**
-
----
+**Hire me** for your next BigCommerce project, and let’s build a feature-rich, high-performing eCommerce store together!
