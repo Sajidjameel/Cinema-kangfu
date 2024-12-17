@@ -60,15 +60,27 @@ This project fully utilizes the power of the **BigCommerce** platform, providing
 - **Custom BigCommerce app development** to meet the unique requirements of Cinema Kung Fu.
 - Efficient management of movie catalog using **BigCommerce’s bulk import/export** functionality.
 
+## 🛠️ Frontend Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+
+## 🛠️ Backend Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 ## Why Hire Me?
 
 I am **Sajid Jamil**, an experienced **BigCommerce developer** specializing in creating fully customized, high-performing eCommerce stores that drive results. With extensive experience in **eCommerce strategy, mobile responsiveness**, and **secure payment integrations**, I ensure that your online store not only stands out but also converts visitors into loyal customers.
 
 ---
-## 📬 Contact Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=Twitter)](https://x.com/Metavizpro)
+[![Instagram](https://img.shields.io/badge/Instagram-Contact%20Me-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/metavizpro/)
 
 ---
 
